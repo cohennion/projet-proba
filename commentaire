@@ -1,0 +1,9 @@
+(Le profil du fond marin observé dans nos simulations n'est visiblementpas le bon,
+notamment puisqu'on voit une profondeur posisitve et aux abord des observations 
+le profondeur n'est pas la bonne, apparemment elle "compense" pour que la moyenne 
+entre ce point et le poin d'observation soit mu=-5, bien que les variances soit cohérentes, c'est à dire bien nulle au point d'observation.
+Cependant nous n'avons pas trouvé notre erreur, qui ne doit pas être majeure, pour résoudre ce problème. Merci de votre compréhension.)
+
+Ceci a finalement été corrigé pour un rendu final nommé projetproba, du à une erreur dans la formule de l'espérance. 
+cependant je laisse le fichier mauvais nommé projetproba modifié car il me semble que tous les histogrammes ne 
+fonctionnent bizarrement pas dans le nouveau programme bon.
